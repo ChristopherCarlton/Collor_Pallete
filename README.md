@@ -1,2 +1,2 @@
 # Collor_Pallete
-Created with CodeSandbox
+Created with CodeSandbox.
